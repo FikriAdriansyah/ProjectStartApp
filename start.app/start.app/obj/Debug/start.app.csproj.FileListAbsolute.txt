@@ -1,0 +1,12 @@
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\bin\Debug\start.app.exe.config
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\bin\Debug\start.app.exe
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\bin\Debug\start.app.pdb
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.csprojAssemblyReference.cache
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.Properties.Resources.resources
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.csproj.GenerateResource.cache
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.exe
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.pdb
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.Dashboard.resources
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.LihatBarang.resources
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.TambahBarang.resources
+D:\Tugas_Polman\Semester_2\Pemrograman 2\start.app\start.app\obj\Debug\start.app.UpdateBarang.resources
